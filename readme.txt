@@ -1,2 +1,1 @@
-git init...
-codingke augus
+good good study,day day up
